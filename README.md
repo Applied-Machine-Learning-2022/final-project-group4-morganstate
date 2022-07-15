@@ -3,8 +3,11 @@
 Name of your teams' final project
 -->
 # Display 100 Top Words
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
+## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at THEE MORGAN STATE UNIVERSITY
 
+### NACME/AMLI Google bootcamp 
+
+**NACME** **(National Action Council For Minorities in Engineering)** is an organization committed to assisting underrepresented minorities succeed in engineering and computer science career paths. NACME provides scholarships, opportunities and programs in order to increase the engineering worforce and prepare underrepresented students for the real world. The AMLI Google Bootcamp is one of the many programs that NACME provides that gives college students an introduction to machine learning in order to contend for an entry-level Machine Learning position.
 <!--
 
 -->
@@ -14,7 +17,17 @@ Developed by:
 - [Tobi Owolabi](https://github.com/TobiOwolabi) - Morgan State University 
 - [Laila Amin](https://github.com/nightchild993 "Laila Amin") - Morgan State University
 
+### Roles
+<!--
+**Everyone**
+- **Colab file contributors** - Apply knowledge from previous colabs and projects and implement code to complete the assigned problem stated in the project. Including: doing EDA (Explorartory Data Analysis), creating a DataFrame, training a model etc.
 
+**Tobi**
+- **Project lead** : Communicates to the group on the goals and expectations upon completing the project, and advises the group to stay on their assigned tasks and updates on projects reports as necessary.
+- **Design Document Editor** : Frequently updates the procedures taken to complete the project and highlights the intermediate and long term goals for the project.
+
+**Laila**
+- **Ethical Consideration Editor** : Creates a discussion of ethical questions and topics relating the the project. Write a paragraph story describing how the project model would positively/negatively impact a faux character.
 
 ## Description
 <!--
