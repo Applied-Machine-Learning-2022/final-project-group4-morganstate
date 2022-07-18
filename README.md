@@ -41,7 +41,7 @@ Developed by:
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
-
+The premise of the project is to display the top 100 and their frquencies from a scikit-learn dataset. Our job is to replicate the output given in the project details and print our data in a similar fashion. Afterwards, we must strip the words from their collection of documents and apply a method known as lemmatization (process from Natural Language Processing that accurately groups mutiple variations of the same word). Also, K-means clustering will be conducted to determine the sum of square distance of samples to their closest cluster center and display the top 3 sets of topics associated with each cluster.
 ## Usage instructions
 <!--
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
