@@ -17,17 +17,25 @@ Developed by:
 - [Tobi Owolabi](https://github.com/TobiOwolabi) - Morgan State University 
 - [Laila Amin](https://github.com/nightchild993 "Laila Amin") - Morgan State University
 
-### Roles
-<!--
+## Roles
+
+
 **Everyone**
-- **Colab file contributors** - Apply knowledge from previous colabs and projects and implement code to complete the assigned problem stated in the project. Including: doing EDA (Explorartory Data Analysis), creating a DataFrame, training a model etc.
+- **Colab File Contributors** : Create a empty colab and apply tactics like EDA (Exploratory Data Analysis), creating a DataFrame, training a model etc. The group is responsible for implementing and detailing code in order to complete the assigned topic for the project.
+
+**Brianna**
+- **PowerPoint Creator** : Manage presentation slides detailing the team member and roles, the reasons for completing the project, the lessons learned when completing the project and the steps moving forward after completing the project.
 
 **Tobi**
-- **Project lead** : Communicates to the group on the goals and expectations upon completing the project, and advises the group to stay on their assigned tasks and updates on projects reports as necessary.
-- **Design Document Editor** : Frequently updates the procedures taken to complete the project and highlights the intermediate and long term goals for the project.
+- **Project Lead** : Keep the group on task and oversee that everyone works on their assigned parts of the project. Maintains communication with the team and writes a project report as necessary.
+
+- **Design Documenter** : Frequently updates the design document on the necessary steps taken to complete the project. Write the intermediate and long term goals of the project.
+
+**Jaden**
+- **Read.md file Creator** : Creates the introductory file used to detail what is NACME/AMLI Google Bootcamp, gives a description of the topic for the project, list the names of the team members, their linked GitHub accounts and their associated University. They also provide the resultd for their respected projects.
 
 **Laila**
-- **Ethical Consideration Editor** : Creates a discussion of ethical questions and topics relating the the project. Write a paragraph story describing how the project model would positively/negatively impact a faux character.
+- **Ethical Considerations Editor** : Write a discussion on the ethics of the project, write paragraphs on how a fictional character was positively and negatively affected by the project model, list possible biases and describe modifications to mitigate bias. 
 
 ## Description
 <!--
