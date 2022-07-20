@@ -7,7 +7,7 @@ Name of your teams' final project
 
 ### NACME/AMLI Google bootcamp 
 
-**NACME** **(National Action Council For Minorities in Engineering)** is an organization committed to assisting underrepresented minorities succeed in engineering and computer science career paths. NACME provides scholarships, opportunities and programs in order to increase the engineering worforce and prepare underrepresented students for the real world. The AMLI Google Bootcamp is one of the many programs that NACME provides that gives college students an introduction to machine learning in order to contend for an entry-level Machine Learning position.
+**NACME** **(National Action Council For Minorities in Engineering)** is an organization committed to assisting underrepresented minorities in engineering and computer science career paths. NACME provides scholarships, opportunities and programs in order to increase the engineering worforce and prepare underrepresented students for the real world. The AMLI Google Bootcamp is one of program that NACME provides that gives college students an introduction to machine learning in order to contend for an entry-level Machine Learning position.
 <!--
 
 -->
@@ -21,10 +21,10 @@ Developed by:
 
 
 **Everyone**
-- **Colab File Contributors** : Create a empty colab and apply tactics like EDA (Exploratory Data Analysis), creating a DataFrame, training a model etc. The group is responsible for implementing and detailing code in order to complete the assigned topic for the project.
+- **Colab File Contributors** : Create an empty colab and apply tactics like EDA (Exploratory Data Analysis), creating a DataFrame, training a model etc. The group is responsible for implementing and detailing code in order to complete the assigned topic for the project.
 
 **Brianna**
-- **PowerPoint Creator** : Manage presentation slides detailing the team member and roles, the reasons for completing the project, the lessons learned when completing the project and the steps moving forward after completing the project.
+- **PowerPoint Creator** : Manage presentation slides detailing the team members and roles, the reasons for completing the project, the lessons learned when completing the project and the steps moving forward after completing the project.
 
 **Tobi**
 - **Project Lead** : Keep the group on task and oversee that everyone works on their assigned parts of the project. Maintains communication with the team and writes a project report as necessary.
@@ -32,7 +32,7 @@ Developed by:
 - **Design Documenter** : Frequently updates the design document on the necessary steps taken to complete the project. Write the intermediate and long term goals of the project.
 
 **Jaden**
-- **Read.md file Creator** : Creates the introductory file used to detail what is NACME/AMLI Google Bootcamp, gives a description of the topic for the project, list the names of the team members, their linked GitHub accounts and their associated University. They also provide the resultd for their respected projects.
+- **Read.md file Creator** : Creates the introductory file used to detail what is NACME/AMLI Google Bootcamp, gives a description of the topic for the project, list the names of the team members, their linked GitHub accounts and their associated University. They also provide the results for their respected projects.
 
 **Laila**
 - **Ethical Considerations Editor** : Write a discussion on the ethics of the project, write paragraphs on how a fictional character was positively and negatively affected by the project model, list possible biases and describe modifications to mitigate bias. 
@@ -41,8 +41,9 @@ Developed by:
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
-The premise of the project is to display the top 100 and their frquencies from a scikit-learn dataset. Our job is to replicate the output given in the project details and print our data in a similar fashion. Afterwards, we must strip the words from their collection of documents and apply a method known as lemmatization (process from Natural Language Processing that accurately groups mutiple variations of the same word). Also, K-means clustering will be conducted to determine the sum of square distance of samples to their closest cluster center and display the top 3 sets of topics associated with each cluster.
-## Natural Language Processing
+The premise of the project is to display the top 100 words and their frquencies from a scikit-learn dataset. Our job is to replicate the output given in the project details and print our data in a similar fashion. Afterwards, we must strip the words from their collection of documents and apply a method known as lemmatization (process from Natural Language Processing that accurately groups mutiple variations of the same word). Also, K-means clustering will be conducted to group the documents in the News Group and display the top 3 sets of topics associated with each cluster.
+## Natural Language Processing  
+- NLP is a means to where machines learn and interpret human language in the same manner as humans. Communication with the Iphone's Siri is an example of a use for nlp as when a user speaks into their device, Siri converts the speech to a machine's language and outputs information the user was looking for.
 ![](https://www.cybiant.com/wp-content/uploads/2020/01/CKC-Natural-Language-Processing.png)
 
 ## Lemmatization
