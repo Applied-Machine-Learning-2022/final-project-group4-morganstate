@@ -2,7 +2,7 @@
 <!--
 Name of your teams' final project
 -->
-# Display 100 Top Words
+# Displaying the Top 100 Words and Clustering Data
 ## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at THEE MORGAN STATE UNIVERSITY
 
 ### NACME/AMLI Google bootcamp 
