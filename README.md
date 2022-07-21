@@ -48,12 +48,19 @@ The premise of the project is to utilize a dataset of 20 News Groups and display
 ![](https://www.cybiant.com/wp-content/uploads/2020/01/CKC-Natural-Language-Processing.png)
 
 ## Lemmatization
+- process of converting words into their root word or lemma. In the example below, "play" is the lemma for all the variations of words. Lemmatization is used in this project to increase the accuracy of printing the top topics associated in each cluster.
 ![](https://i.pinimg.com/736x/bf/81/be/bf81be81beba989425ea49e8856c952a.jpg)
+
+## Topic Modeling
+
+![](https://miro.medium.com/max/1400/1*cDwKSHmfp5awjqjobV707g.png)
 
 ## References
 https://www.pinterest.com/pin/stemming-and-lemmatization-in-python--540713499008866837/
 https://www.cybiant.com/resources/natural-language-processing/
+https://medium.com/analytics-vidhya/how-to-perform-topic-modeling-using-mallet-abc43916560f
 ## Usage instructions
+
 <!--
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
 -->
@@ -61,3 +68,10 @@ Give details on how to install fork and install your project. You can get all of
 2. Change directories into your project
 3. On the command line, type `pip3 install requirements.txt`
 4.
+
+## Contacts
+- Tobi: toowo1@morgan.edu
+- Jaden: jarob66@morgan.edu
+- Brianna: brmur12@morgan.edu
+- Laila: laami2@morgan.edu
+
