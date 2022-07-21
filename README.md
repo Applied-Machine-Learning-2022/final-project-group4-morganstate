@@ -3,9 +3,9 @@
 Name of your teams' final project
 -->
 # Displaying the Top 100 Words and Clustering Data
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at THEE MORGAN STATE UNIVERSITY
 
-### NACME/AMLI Google bootcamp 
+
+### NACME/AMLI Google Bootcamp 
 
 **NACME** **(National Action Council For Minorities in Engineering)** is an organization committed to assisting underrepresented minorities in engineering and computer science career paths. NACME provides scholarships, opportunities and programs in order to increase the engineering worforce and prepare underrepresented students for the real world. The AMLI Google Bootcamp is one of program that NACME provides that gives college students an introduction to machine learning in order to contend for an entry-level Machine Learning position.
 <!--
@@ -41,7 +41,8 @@ Developed by:
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
-The premise of the project is to display the top 100 words and their frquencies from a scikit-learn dataset. Our job is to replicate the output given in the project details and print our data in a similar fashion. Afterwards, we must strip the words from their collection of documents and apply a method known as lemmatization (process from Natural Language Processing that accurately groups mutiple variations of the same word). Also, K-means clustering will be conducted to group the documents in the News Group and display the top 3 sets of topics associated with each cluster.
+The premise of the project is to utilize a dataset of 20 News Groups and display the top 100 words by their frquencies(how often they appear). Then, natural language processing is applied to cluster documents in order to investigate the top 3 sets of topics contained in each cluster. Our goal is to conduct Unsupervised Learning by clustering our documents and examine the hidden words within our data. The words included in the documents are stripped by performing lemmatization (process from Natural Language Processing that accurately groups mutiple variations of the same word). Also, K-means clustering will be conducted to group the documents in the News Group by a number of clusters to and display the top 3 sets of topics(a.k.a. Topic Modeling).
+
 ## Natural Language Processing  
 - NLP is a means to where machines learn and interpret human language in the same manner as humans. Communication with the Iphone's Siri is an example of a use for nlp as when a user speaks into their device, Siri converts the speech to a machine's language and outputs information the user was looking for.
 ![](https://www.cybiant.com/wp-content/uploads/2020/01/CKC-Natural-Language-Processing.png)
@@ -59,4 +60,4 @@ Give details on how to install fork and install your project. You can get all of
 1. Fork this repo
 2. Change directories into your project
 3. On the command line, type `pip3 install requirements.txt`
-4. ....
+4.
